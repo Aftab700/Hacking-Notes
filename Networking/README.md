@@ -47,3 +47,6 @@ Common Ports and Protocols
 
 ----
 
+[Subnet-Guide.xlsx](https://github.com/Aftab700/VAPT/files/9542410/Subnet-Guide.xlsx)
+
+
