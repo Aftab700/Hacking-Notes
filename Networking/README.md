@@ -36,3 +36,14 @@ Common Ports and Protocols
   - TFTP (69)
   - SNMP (161)
 
+### OSI model
+1. Physical Layer     -data cables, cat6
+2. Data Link Layer    - Switching MAC addresses
+3. Network Layer      - IP addresses, routing
+4. Transport Layer    - TCP/ UDP
+5. Session Layer      - Session management
+6. Presentation Layer - JPEG, WMV, MOV
+7. Application Layer  - HTTP, SMTP
+
+----
+
