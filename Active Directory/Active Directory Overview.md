@@ -54,4 +54,65 @@ The AD DS Schema:
 | Class Object  | What objects can be created in the directory | User <br /> Computer |
 |Attribute Object |Information that can be attached to an object | Display name |
 
+---
+
+### Domains
+
+Domains are used to group and manage objects in an organization
+
+
+Domains:
+- An administrative boundary for applying policies to groups of objects
+- A replication boundary for replicating data between domain controllers
+- An authentication and authorization boundary that provides a way to limit the scope of access to resources
+
+---
+
+### Trees
+
+A domain tree is a hierarchy of domains in AD DS
+
+All domains in the tree:
+- Share a contiguous namespace with the parent domain
+- Can have additional child domains
+- By default, create a two-way transitive trust with other domains
+
+---
+
+### Forests
+
+A forest is a collection of one or more domain trees
+
+Forests:
+- Share a common schema
+- Share a common configuration partition
+- Share a common global catalog to enable searching
+- Enable trusts between all domains in the forest
+- Share the Enterprise Admins and Schema Admins groups
+
+---
+
+### Organizational Units (Ous)
+
+OUS are Active Directory containers that can contain users, groups, computers, and other OUS
+
+OUS are used to:
+- Represent your organization hierarchically and logically
+- Manage a collection of objects in a consistent way
+- Delegate permissions to administer groups of objects
+- Apply policies
+
+---
+
+### Trusts
+
+Trusts provide a mechanism for users to gain access to resources in another domain
+
+| Types of Trusts | Description | Diagram |
+|------|-------|-----|
+|  Directional   |  The trust direction flows from trusting domain to the trusted domain    |  <pre>Access <br/>   ➡<br/>🔺 ⬅ 🔺 <br>  Trust    </pre> |
+|  Transitive   |  The trust relationship is extended beyond a two-domain trust to include other trusted domains    |       |
+
+- All domains in a forest trust all other domains in the forest
+- Trusts can extend outside the forest
 
