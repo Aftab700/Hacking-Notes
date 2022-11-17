@@ -1,8 +1,9 @@
 
 ### spiking
 ### fuzzing
-### Create Pattern
 
+
+- Create Pattern:
 ```
 /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 223
 
