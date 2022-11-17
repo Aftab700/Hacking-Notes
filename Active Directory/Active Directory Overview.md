@@ -110,8 +110,8 @@ Trusts provide a mechanism for users to gain access to resources in another doma
 
 | Types of Trusts | Description | Diagram |
 |------|-------|-----|
-|  Directional   |  The trust direction flows from trusting domain to the trusted domain    |  <pre>Access <br/>   ➡<br/>🔺 ⬅ 🔺 <br>  Trust    </pre> |
-|  Transitive   |  The trust relationship is extended beyond a two-domain trust to include other trusted domains    |       |
+|  Directional   |  The trust direction flows from trusting domain to the trusted domain    |  <img width="93" alt="image" src="https://user-images.githubusercontent.com/79740895/202502616-b269191c-3a11-4ff5-a091-f22d3a567f07.png"> |
+|  Transitive   |  The trust relationship is extended beyond a two-domain trust to include other trusted domains    | <img width="168" alt="image" src="https://user-images.githubusercontent.com/79740895/202502880-94fd1485-0c9f-43f0-971c-f42cac65b93f.png">      |
 
 - All domains in a forest trust all other domains in the forest
 - Trusts can extend outside the forest
