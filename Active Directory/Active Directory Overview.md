@@ -51,7 +51,7 @@ The AD DS Schema:
 
  | Object Types | Function | Examples |
 |---|---|---|
-| Class Object  | What objects can be created in the directory | User • Computer |
+| Class Object  | What objects can be created in the directory | User <br /> Computer |
 |Attribute Object |Information that can be attached to an object | Display name |
 
 
