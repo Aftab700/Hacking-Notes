@@ -116,3 +116,20 @@ Trusts provide a mechanism for users to gain access to resources in another doma
 - All domains in a forest trust all other domains in the forest
 - Trusts can extend outside the forest
 
+---
+
+### Objects
+
+| Object | Description |
+|------|------|
+|User | Enables network resource access for a user |
+| InetOrgPerson | Similar to a user account <br/> Used for compatibility with other directory services |
+| Contacts | Used primarily to assign e-mail addresses to external users <br/> Does not enable network access |
+| Groups | Used to simplify the administration of access control |
+| Computers | Enables authentication and auditing of computer access to resources |
+| Printers | Used to simplify the process of locating and connecting to printers |
+| Shared folders | Enables users to search for shared folders based on properties |
+
+---
+
+
