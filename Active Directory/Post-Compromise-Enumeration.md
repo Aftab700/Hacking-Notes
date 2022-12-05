@@ -1,3 +1,6 @@
+
+### PowerView 
+
 https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
 
 [PowerView Cheat Sheet](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993)
@@ -45,6 +48,9 @@ Get-NetGPO
 Get-NetGPO | select displayname, whenchanged
 ```
 
+---
+
+### BloodHound
 
 https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1
 
