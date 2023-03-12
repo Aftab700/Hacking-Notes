@@ -1,3 +1,17 @@
+## Information Gathering (Reconnaissance)
+
+
+
+### Discovering Email Addresses
+
+- https://email-checker.net/validate
+- https://hunter.io/
+- https://phonebook.cz/
+
+
+
+
+
 ### Sub Domains
 
 - cert.sh
