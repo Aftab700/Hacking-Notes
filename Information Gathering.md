@@ -14,7 +14,7 @@
 
 ### Sub Domains
 
-- cert.sh
+- https://crt.sh/
 - sublist3r
 
 
