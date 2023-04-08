@@ -16,6 +16,11 @@ https://osintframework.com/
 
 https://www.faganfinder.com/
 
+## Google Search Operators
+
+- https://ahrefs.com/blog/google-advanced-search-operators/
+- https://support.google.com/websearch/answer/2466433?hl=en
+
 
 
 
