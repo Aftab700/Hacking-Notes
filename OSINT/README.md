@@ -22,6 +22,13 @@ https://www.faganfinder.com/
 - https://support.google.com/websearch/answer/2466433?hl=en
 
 
+### Online Data Breach
+- https://haveibeenpwned.com
+- https://leakpeek.com
+- https://intelx.io
+- https://ghostproject.fr
+- https://dehashed.com
+- https://weleakinfo.com
 
 
 
