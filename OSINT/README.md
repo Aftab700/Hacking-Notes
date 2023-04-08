@@ -10,7 +10,12 @@
 6. Command and Control
 7. Actions on Objectives
 
+---------
+
 https://osintframework.com/
+
+https://www.faganfinder.com/
+
 
 
 
