@@ -21,7 +21,7 @@ psexec.py "frank castle":@<IP> -hashes LMHASH:LTHASH
 
 ---
 
-### Pass attacke mitigations
+#### Pass attacke mitigations
 
 Hard to completely prevent, but we can make it more difficult on an attacker:
 - Limit account re-use:
@@ -50,7 +50,7 @@ Two types:
 
 https://www.offensive-security.com/metasploit-unleashed/fun-incognito/
 
-### Token Impersonation Mitigation
+#### Token Impersonation Mitigation
 
 Mitigation Strategies:
 - Limit user/group token creation permissions
@@ -63,7 +63,9 @@ Mitigation Strategies:
 
 https://medium.com/@Shorty420/kerberoasting-9108477279cc
 
-
+#### Mitigation Strategies:
+- Strong Passwords
+- Least privilege
 
 
 
