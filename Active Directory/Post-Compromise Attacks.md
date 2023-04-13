@@ -79,6 +79,12 @@ https://medium.com/@Shorty420/kerberoasting-9108477279cc
 
 https://www.rapid7.com/blog/post/2016/07/27/pentesting-in-the-real-world-group-policy-pwnage/
 
+### URL File Attacks
+
+- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#scf-and-url-file-attack-against-writeable-share
+
+
+
 
 
 
