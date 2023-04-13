@@ -1,9 +1,24 @@
 # Web Security
 
+<br>
 
+## Finding Subdomains
 
+- https://github.com/tomnomnom/assetfinder
+- https://github.com/owasp-amass/amass/blob/master/doc/install.md
 
+### Finding Alive Domains with Httprobe
 
+- https://github.com/tomnomnom/httprobe
+
+### Screenshotting Websites with GoWitness
+
+-  https://github.com/sensepost/gowitness
+
+### Automating the Enumeration Process
+
+- TCM's modified script - https://pastebin.com/MhE6zXVt
+- https://github.com/Gr1mmie/sumrecon
 
 
 
