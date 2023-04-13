@@ -67,6 +67,17 @@ https://medium.com/@Shorty420/kerberoasting-9108477279cc
 - Strong Passwords
 - Least privilege
 
+-----
+
+### GPP Attacks 
+
+#### Overview:
+- Group Policy Preferences allowed admins to create policies using embedded credentials
+- These credentials were encrypted and placed in a "cPassword"
+- The key was accidentally released 
+- Patched in MS14-025, but doesn't prevent previous uses
+
+https://www.rapid7.com/blog/post/2016/07/27/pentesting-in-the-real-world-group-policy-pwnage/
 
 
 
