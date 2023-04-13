@@ -123,6 +123,8 @@ SecuraBV ZeroLogon Checker - https://github.com/SecuraBV/CVE-2020-1472
 
 -----
 
+### Additional resources 
+
 Active Directory Security Blog: https://adsecurity.org/
 
 Harmj0y Blog: http://blog.harmj0y.net/
