@@ -6,6 +6,7 @@
 - https://github.com/random-robbie/bruteforce-lists
 - https://wordlists.assetnote.io/
 - https://github.com/danielmiessler/SecLists
+- https://github.com/carlospolop/Auto_Wordlists
 
 
 <br>
