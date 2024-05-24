@@ -5,6 +5,7 @@
 
 https://h.43z.one/ipconverter/
 
+[Localhost Different representations](https://raw.githubusercontent.com/osamahamad/FUZZING/main/localhost.txt)
 
 ```
 X-Forwarded-Host: exploit-server.com
