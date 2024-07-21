@@ -1,6 +1,6 @@
 # Flipper Stuff
 
-four major firmwares that you can install on the Flipper Zero. These are:
+Four major firmwares that you can install on the Flipper Zero. These are:
 
 - [Unleashed](https://github.com/DarkFlippers/unleashed-firmware)
 - [Xtreme](https://github.com/Flipper-XFW)
@@ -12,4 +12,7 @@ A collection of Awesome resources for the Flipper Zero device.
 
 Flipper Zero SD Card Files:
 - https://github.com/UberGuidoZ/Flipper/tree/main
+
+Flipper Lab - Applications for Flipper Zero
+- https://lab.flipper.net/apps
 
