@@ -7,6 +7,7 @@
 - https://wordlists.assetnote.io/
 - https://github.com/danielmiessler/SecLists
 - https://github.com/carlospolop/Auto_Wordlists
+- https://github.com/six2dez/OneListForAll
 
 
 <br>
