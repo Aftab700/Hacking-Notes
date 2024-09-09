@@ -2,6 +2,11 @@
 
 <br>
 
+## Intresting tools
+
+- https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet
+
+
 ## Finding Subdomains
 
 - https://github.com/tomnomnom/assetfinder
