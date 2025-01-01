@@ -26,7 +26,10 @@
 - https://github.com/Gr1mmie/sumrecon
 
 
+---------
 
+
+[CryptoCat's Hacking Resources](https://cryptocat.me/resources)
 
 
 
